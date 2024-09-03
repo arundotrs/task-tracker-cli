@@ -1,2 +1,5 @@
-# task-tracker-cli
-Task Tracker CLI
+# Task Tracker CLI
+
+### Project Details
+
+https://roadmap.sh/projects/task-tracker
